@@ -1,0 +1,20 @@
+Timestamp	Did you have a confirmed laboratory test for COVID-19 (positive result)?	Where you admitted to hospital for COVID-19?	How long was your hospital stay?	What drugs (medicines) were you taking BEFORE you arrived at hospital? ['none' if not taking anything]	What drugs (medicines) were you given WHILE AT hospital?	What drugs (medicines) were you taking BEFORE you got sick? ['none' if not taking anything]	What drugs (medicines) did you take WHILE you were sick at home? ['none' if not taking anything]	How long did it take you to recover at home?	How old are you?
+26/04/2020 16:44:49	Yes	Yes	15-21 days (3 weeks)	captopril	hydroxychloroquine/azithromycin				18-24
+26/04/2020 16:45:25	Yes	No				pentagastrin	paracetamol	15-21 days (3 weeks)	55-64 years
+26/04/2020 16:46:25	Yes	Yes	22-28 days (4 weeks)	none	lopinavi/ritonavir				65-74
+26/04/2020 16:47:14	Yes	No				prantopranozole	none	15-21 days (3 weeks)	25-34
+26/04/2020 16:48:08	Yes	Yes	3-5 days	erythromycin	hydroxychloroquine				55-64 years
+26/04/2020 16:49:14	Yes	Yes	10-14 days (2 weeks)	ampicillin	lopinavir/ritonavir				<18 years
+26/04/2020 17:04:58	Yes	Yes	15-21 days (3 weeks)	none	hydroxychloroquine and azithromycin				55-64 years
+26/04/2020 17:05:59	Yes	Yes	1-2 days	salbutamol	remdesivir				<18 years
+26/04/2020 17:07:59	Yes	Yes	29-35 days (5 weeks)	aspirin	lopinavir/ritonavir				75+ years
+26/04/2020 17:08:39	Yes	No				ibuprophen	paracetamol	10-14 days (2 weeks)	45-54 years
+26/04/2020 17:09:21	Yes	No				none	paracetamol	15-21 days (3 weeks)	25-34 years
+26/04/2020 17:09:50	Yes	No				none	paracetamol	10-14 days (2 weeks)	<18 years
+26/04/2020 17:10:15	Yes	No				none	none	15-21 days (3 weeks)	45-54 years
+26/04/2020 17:11:02	Yes	Yes	10-14 days (2 weeks)	none	chloroquine				35-44 years
+26/04/2020 17:11:41	Yes	Yes	10-14 days (2 weeks)	roxithromycin	remdesivir				65-74 years
+26/04/2020 17:12:37	Yes	Yes	6-10 days	none	remdesivir				<18 years
+26/04/2020 17:13:16	Yes	Yes	10-14 days (2 weeks)	none	hydroxychloroquine and azithromycin				25-34 years
+26/04/2020 17:13:50	Yes	No				pentagastrin	paracetamol	15-21 days (3 weeks)	65-74 years
+26/04/2020 17:14:27	Yes	No				erythromycin	paracetamol	6-10 days	18-24 years
